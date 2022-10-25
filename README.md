@@ -14,3 +14,9 @@ We apply Hyper Parameters Tuning to find the best parameters for Decision Tree a
 To handle categorical data, we apply the technique of OneHotEncoding. 
 
 ![marketing2](https://user-images.githubusercontent.com/112804900/195020752-640171ac-111c-46d0-a3c5-d0fcfda0fce2.png)
+
+Learnings : <br>
+- Dealing with categorical data : OneHotEncoder, getdummies, labelencoder
+- HyperParameter Tuning using GridSearch and RandomSearch Methods
+- Building a Random Forest Classifier
+- Model Evaluation : More focus on False Negatives
