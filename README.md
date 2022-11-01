@@ -20,3 +20,8 @@ Learnings : <br>
 - HyperParameter Tuning using GridSearch and RandomSearch Methods
 - Building a Random Forest Classifier
 - Model Evaluation : More focus on False Positives
+
+
+## Note
+Main Testcode : Direct Marketing Problem.ipynb <br>
+Datasets available in Data folder <br>
